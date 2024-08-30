@@ -10,8 +10,8 @@
 	"lotteryPoint": "/images/icon_point.png",
 	"lotteryText": "/images/btn_lottery_btn.png",
 	"items": [
-		{"id": 1001, "title": "中餐小炒", "pic": "/items/chaocai.jpg"},
-		{"id": 1002, "title": "盖浇饭", "pic": "/items/gaifan.jpg"},
+		{"id": 1001, "title": "小炒", "pic": "/items/chaocai.jpg"},
+		{"id": 1002, "title": "盖饭", "pic": "/items/gaifan.jpg"},
 		{"id": 1003, "title": "盒饭", "pic": "/items/hefan.jpg"},
 		{"id": 1004, "title": "炒饭", "pic": "/items/chaofan.jpg"},
 		{"id": 1005, "title": "炒粉面", "pic": "/items/chaomian.jpg"},
