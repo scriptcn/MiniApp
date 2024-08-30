@@ -5,7 +5,7 @@
 	"musicIco": "/images/music2.png",
 	"musicSrc": "/res/music.mp3",
 	"musicAutoPlay": true,
-	"appBackImage": "/images/back3.jpg",
+	"appBackImage": "/images/back2.jpg",
 	"lotteryButton": "/images/btn_lottery2.png",
 	"lotteryPoint": "/images/icon_point.png",
 	"lotteryText": "/images/btn_lottery_btn.png",
