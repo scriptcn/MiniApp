@@ -1,0 +1,29 @@
+{
+	"host": "https://x1.biy.us.kg/static",
+	"logo": "/images/logo.png",
+	"logoWhite": "/images/logo_white.jpg",
+	"musicIco": "/images/music2.png",
+	"musicSrc": "/res/music.mp3",
+	"appBackImage": "/images/back3.jpg",
+	"lotteryButton": "/images/btn_lottery2.png",
+	"lotteryPoint": "/images/icon_point.png",
+	"lotteryText": "/images/btn_lottery_btn.png",
+	"items": {
+		"1001": {"title": "中餐小炒", "pic": "/items/chaocai.jpg"},
+		"1002": {"title": "盖浇饭", "pic": "/items/gaifan.jpg"},
+		"1003": {"title": "盒饭", "pic": "/items/hefan.jpg"},
+		"1004": {"title": "炒饭", "pic": "/items/chaofan.jpg"},
+		"1005": {"title": "炒粉面", "pic": "/items/chaomian.jpg"},
+		"1006": {"title": "火锅", "pic": "/items/huoguo.jpg"},
+		"1007": {"title": "饺子", "pic": "/items/jiaozi.jpg"},
+		"1008": {"title": "拉面", "pic": "/items/lamian.jpg"},
+		"1009": {"title": "牛肉面", "pic": "/items/niuroumian.jpg"},
+		"1010": {"title": "包子馒头", "pic": "/items/baozi.jpg"},
+		"1011": {"title": "炸鸡汉堡", "pic": "/items/hanbao.jpg"},
+		"1012": {"title": "麻辣烫", "pic": "/items/malatang.jpg"},
+		"1013": {"title": "烧烤", "pic": "/items/shaokao.jpg"},
+		"1014": {"title": "寿司日料", "pic": "/items/shousi.jpg"},
+		"1015": {"title": "粥类", "pic": "/items/zhou.jpg"},
+		"1016": {"title": "汤类", "pic": "/items/tang.jpg"}
+	}
+}
