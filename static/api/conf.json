@@ -1,7 +1,7 @@
 {
 	"host": "http://23yx.com.cn/tv/static",
 	"logo": "/images/logo.png",
-	"logoWhite": "/images/logo_white.jpg",
+	"logoWhite": "/images/logo_white.png",
 	"musicIco": "/images/music2.png",
 	"musicSrc": "/res/music.mp3",
 	"isPlaying": false,
