@@ -4,7 +4,7 @@
 	"logoWhite": "/images/logo_white.jpg",
 	"musicIco": "/images/music2.png",
 	"musicSrc": "/res/music.mp3",
-	"isPlaying": true,
+	"isPlaying": false,
 	"appBackImage": "/images/core_bg_top_01.jpg",
 	"lotteryButton": "/images/btn_lottery2.png",
 	"lotteryPoint": "/images/icon_point.png",
